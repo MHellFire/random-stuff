@@ -1,6 +1,6 @@
 # Programowanie w MIPS32 assembly
 ---
-Poniższy program napisany jest na architekturę MIPS 32 w języku asemblera. Jest on rozwiązaniem zadania, odpowiedzią na problem przedstawiony na jednym z forów internetowych [Programowanie w Spim Assembler - elektroda.pl](https://www.elektroda.pl/rtvforum/topic2276013.html).
+Program napisany na architekturę MIPS 32 w języku asemblera. Jest on rozwiązaniem zadania, odpowiedzią na problem przedstawiony na jednym z forów internetowych [Programowanie w Spim Assembler - elektroda.pl](https://www.elektroda.pl/rtvforum/topic2276013.html).
 
 ## MIPS
 ---
