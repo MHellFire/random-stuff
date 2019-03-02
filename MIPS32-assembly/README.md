@@ -24,7 +24,7 @@ Napisać program, który sprawdza czy podany ciąg znaków (wzorzec) wystepuje w
 ---
 Algorytm jest bardzo prosty. Po uruchomieniu programu wyświetlamy komunikat powitalny oraz menu. Czekamy na decyzję użytkownika. Po wczytaniu odpowiedzi wykonujemy odpowiedni fragment kodu.
 
-![8173562400_1334859989.png](:storage/9fec5bb6-299c-4d0c-ae2c-e29fe18255cd/90e4edd5.png)
+![alogrytm](./screenshots/90e4edd5.png)
 
 ## Kod źródłowy w języku asemblera
 ---
@@ -35,7 +35,7 @@ Kod żródłowy zmajduje się w pliku **MIPS32_QtSpim.asm**.
 Program uruchamiamy we wspomnianym wcześniej symulatorze **QtSpim**. W menu klikamy na **File**, następnie **Load File** i wybieramy plik z naszym kodem. Po wczytaniu pliku klikamy w menu **Simulator** i wybbieramy **Run/Continue**. W tym momencie nasz program zostanie uruchomiony i powinniśmy go zobaczyć w oknie konsoli **Console**.
 
 Poniżej znajduje się zrzut ekranu uruchomionego programu z kilkoma próbami wyszukania ciągu znaków w podanym tekście:
-![console](./screenshots/74f7d35c.png?raw=true)
+![console](./screenshots/74f7d35c.png)
 
 ## Autor
 ---
