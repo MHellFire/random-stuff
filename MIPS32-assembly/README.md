@@ -36,6 +36,7 @@ Program uruchamiamy we wspomnianym wcześniej symulatorze **QtSpim**. W menu kli
 
 Poniżej znajduje się zrzut ekranu uruchomionego programu z kilkoma próbami wyszukania ciągu znaków w podanym tekście:
 ![console](https://github.com/MHellFire/random-stuff/blob/master/MIPS32-assembly/screenshots/74f7d35c.png)
+![console](/screenshots/74f7d35c.png?raw=true)
 
 ## Autor
 ---
