@@ -220,7 +220,7 @@ searchstr:
                 add $v0, $zero, $zero
                 j endfunction
 
-            endN:                            # nieznaleziono
+            endN:                            # nie znaleziono
                 addi $v0, $zero, 1
 
             endfunction:
