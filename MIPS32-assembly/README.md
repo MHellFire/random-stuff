@@ -35,7 +35,7 @@ Kod żródłowy zmajduje się w pliku **MIPS32_QtSpim.asm**.
 Program uruchamiamy we wspomnianym wcześniej symulatorze **QtSpim**. W menu klikamy na **File**, następnie **Load File** i wybieramy plik z naszym kodem. Po wczytaniu pliku klikamy w menu **Simulator** i wybbieramy **Run/Continue**. W tym momencie nasz program zostanie uruchomiony i powinniśmy go zobaczyć w oknie konsoli **Console**.
 
 Poniżej znajduje się zrzut ekranu uruchomionego programu z kilkoma próbami wyszukania ciągu znaków w podanym tekście:
-![console](/screenshots/74f7d35c.png)
+![console](https://github.com/MHellFire/random-stuff/blob/master/MIPS32-assembly/screenshots/74f7d35c.png)
 
 ## Autor
 ---
