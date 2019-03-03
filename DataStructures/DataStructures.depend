@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1542476086 source:/home/hellfire/Desktop/DataStructures/stack.cpp
+	<iostream>
+	<unistd.h>
+	"stack.hpp"
+
+1542304085 /home/hellfire/Desktop/DataStructures/stack.hpp
+
+1542475697 source:/home/hellfire/Desktop/DataStructures/main.cpp
+	<iostream>
+	<cstdlib>
+	"stack.hpp"
+	"queue.hpp"
+	"list.hpp"
+
+1542311278 /home/hellfire/Desktop/DataStructures/queue.hpp
+
+1542476080 source:/home/hellfire/Desktop/DataStructures/queue.cpp
+	<iostream>
+	<unistd.h>
+	"queue.hpp"
+
+1542476525 /home/hellfire/Desktop/DataStructures/list.hpp
+	<list>
+
