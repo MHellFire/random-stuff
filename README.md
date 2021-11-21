@@ -11,5 +11,3 @@ Program napisany na architekturę MIPS 32 w języku asemblera. Jest on rozwiąza
 Algorytm oraz kody źródłowe (w C++ oraz dodatkowo z wykorzystaniem biblioteki Qt) obliczający wiek osoby na podstawie podanej daty urodzenia w sposób jaki to się robi na codzień.
 #### * **txt files converter**
 Jest to prosty program służący przekonwertowaniu pliku źródłowego (tekstowego) do wymaganego formatu pliku wynikowego (również tekstowego). Operuje na plikach QFile, strumieniach tekstu QTextStream oraz łańcuchach znaków, zmiennych typu QString. Napisany jest z wykorzystaniem biblioteki Qt w języku C++.
-#### * **DirectoryStatistics**
-Console application that analyzes and shows statistics of specified directory that handles recursive directories.
